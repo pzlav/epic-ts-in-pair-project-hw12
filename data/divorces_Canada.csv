@@ -1,0 +1,453 @@
+﻿REF_DATE;GEO;DGUID;Indicator;UOM;UOM_ID;SCALAR_FACTOR;SCALAR_ID;VECTOR;COORDINATE;VALUE;STATUS;SYMBOL;TERMINATED;DECIMALS
+1970;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;29301;;;;0
+1971;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;29886;;;;0
+1972;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;32475;;;;0
+1973;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;36903;;;;0
+1974;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;45618;;;;0
+1975;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;51078;;;;0
+1976;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;54429;;;;0
+1977;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;55620;;;;0
+1978;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;57630;;;;0
+1979;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;59931;;;;0
+1980;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;62577;;;;0
+1981;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;68352;;;;0
+1982;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;71409;;;;0
+1983;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;69480;;;;0
+1984;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;66030;;;;0
+1985;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;63021;;;;0
+1986;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;77940;;;;0
+1987;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;97773;;;;0
+1988;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;84810;;;;0
+1989;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;82404;;;;0
+1990;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;81195;;;;0
+1991;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;78954;;;;0
+1992;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;81255;;;;0
+1993;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;80103;;;;0
+1994;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;80814;;;;0
+1995;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;79602;;;;0
+1996;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;73314;;;;0
+1997;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;69060;;;;0
+1998;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;69891;;;;0
+1999;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;71763;;;;0
+2000;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;73005;;;;0
+2001;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;71880;;;;0
+2002;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;71199;;;;0
+2003;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;71466;;;;0
+2004;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;70179;;;;0
+2005;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;71985;;;;0
+2006;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;75213;;;;0
+2007;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;73359;;;;0
+2008;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;71031;;;;0
+2009;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;69570;;;;0
+2010;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;69684;;;;0
+2011;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;68556;;;;0
+2012;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;68511;;;;0
+2013;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;65802;;;;0
+2014;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;62709;;;;0
+2015;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;60963;;;;0
+2016;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;62397;;;;0
+2017;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;62256;;;;0
+2018;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;61344;;;;0
+2019;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;56937;;;;0
+2020;Canada;2016A000011124;Number of divorces;Number;223;units;0;v1331258926;01.янв;42933;;;;0
+1970;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.376;;;;3
+1971;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.361;;;;3
+1972;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.462;;;;3
+1973;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.641;;;;3
+1974;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.000;;;;3
+1975;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.207;;;;3
+1976;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.321;;;;3
+1977;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.344;;;;3
+1978;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.405;;;;3
+1979;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.476;;;;3
+1980;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.553;;;;3
+1981;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.754;;;;3
+1982;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.843;;;;3
+1983;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.739;;;;3
+1984;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.579;;;;3
+1985;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.439;;;;3
+1986;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.986;;;;3
+1987;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;3.697;;;;3
+1988;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;3.166;;;;3
+1989;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;3.021;;;;3
+1990;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.932;;;;3
+1991;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.816;;;;3
+1992;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.864;;;;3
+1993;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.793;;;;3
+1994;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.787;;;;3
+1995;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.717;;;;3
+1996;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.476;;;;3
+1997;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.309;;;;3
+1998;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.318;;;;3
+1999;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.361;;;;3
+2000;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.379;;;;3
+2001;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.317;;;;3
+2002;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.270;;;;3
+2003;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.258;;;;3
+2004;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.197;;;;3
+2005;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.233;;;;3
+2006;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.309;;;;3
+2007;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.231;;;;3
+2008;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.136;;;;3
+2009;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.069;;;;3
+2010;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;2.049;;;;3
+2011;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.996;;;;3
+2012;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.974;;;;3
+2013;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.876;;;;3
+2014;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.770;;;;3
+2015;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.708;;;;3
+2016;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.728;;;;3
+2017;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.704;;;;3
+2018;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.655;;;;3
+2019;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.514;;;;3
+2020;Canada;2016A000011124;Crude divorce rate;Rates per 1,000 population;267;units;0;v1331258927;01.фев;1.129;;;;3
+1991;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;12.июл;;;;1
+1992;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;13.0;;;;1
+1993;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;12.авг;;;;1
+1994;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;12.сен;;;;1
+1995;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;12.июн;;;;1
+1996;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;11.июн;;;;1
+1997;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;10.сен;;;;1
+1998;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;10.сен;;;;1
+1999;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;11.фев;;;;1
+2000;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;11.мар;;;;1
+2001;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;11.янв;;;;1
+2002;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;10.сен;;;;1
+2003;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;10.сен;;;;1
+2004;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;10.июн;;;;1
+2005;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;10.авг;;;;1
+2006;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;11.фев;;;;1
+2007;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;10.сен;;;;1
+2008;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;10.апр;;;;1
+2009;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;10.янв;;;;1
+2010;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;10.янв;;;;1
+2011;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;09.сен;;;;1
+2012;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;09.авг;;;;1
+2013;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;09.мар;;;;1
+2014;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;08.авг;;;;1
+2015;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;08.май;;;;1
+2016;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;08.июн;;;;1
+2017;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;08.май;;;;1
+2018;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;08.фев;;;;1
+2019;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;07.май;;;;1
+2020;Canada;2016A000011124;Divorce rate;Rate per 1,000 married persons;424;units;0;v1331258928;01.мар;05.июн;;;;1
+1991;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.июл;;;;1
+1992;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;13.янв;;;;1
+1993;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;13.янв;;;;1
+1994;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;13.мар;;;;1
+1995;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;13.фев;;;;1
+1996;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.мар;;;;1
+1997;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;11.май;;;;1
+1998;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;11.авг;;;;1
+1999;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.фев;;;;1
+2000;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.апр;;;;1
+2001;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.мар;;;;1
+2002;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.фев;;;;1
+2003;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.мар;;;;1
+2004;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.0;;;;1
+2005;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.апр;;;;1
+2006;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;13.0;;;;1
+2007;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.авг;;;;1
+2008;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.апр;;;;1
+2009;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.янв;;;;1
+2010;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;12.янв;;;;1
+2011;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;11.сен;;;;1
+2012;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;11.авг;;;;1
+2013;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;11.фев;;;;1
+2014;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;10.июл;;;;1
+2015;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;10.фев;;;;1
+2016;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;10.апр;;;;1
+2017;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;10.мар;;;;1
+2018;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;10.0;;;;1
+2019;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;09.янв;;;;1
+2020;Canada;2016A000011124;Age-standardized divorce rate;Rate per 1,000 married persons;424;units;0;v1331258929;01.апр;06.авг;;;;1
+1970;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;203.4;;;;1
+1971;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;204.6;;;;1
+1972;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;217.4;;;;1
+1973;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;241.9;;;;1
+1974;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;292.1;;;;1
+1975;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;318.3;;;;1
+1976;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;330.5;;;;1
+1977;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;329.6;;;;1
+1978;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;335.1;;;;1
+1979;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;341.1;;;;1
+1980;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;351.0;;;;1
+1981;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;378.4;;;;1
+1982;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;392.3;;;;1
+1983;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;378.2;;;;1
+1984;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;356.4;;;;1
+1985;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;337.3;;;;1
+1986;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;413.9;;;;1
+1987;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;516.5;;;;1
+1988;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;445.9;;;;1
+1989;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;430.8;;;;1
+1990;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;422.8;;;;1
+1991;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;408.2;;;;1
+1992;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;418.4;;;;1
+1993;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;412.9;;;;1
+1994;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;417.2;;;;1
+1995;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;412.4;;;;1
+1996;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;380.1;;;;1
+1997;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;358.6;;;;1
+1998;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;366.7;;;;1
+1999;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;379.3;;;;1
+2000;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;388.7;;;;1
+2001;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;384.8;;;;1
+2002;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;383.8;;;;1
+2003;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;388.7;;;;1
+2004;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;383.9;;;;1
+2005;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;396.3;;;;1
+2006;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;419.3;;;;1
+2007;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;412.3;;;;1
+2008;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;402.5;;;;1
+2009;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;396.8;;;;1
+2010;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;399.5;;;;1
+2011;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;394.7;;;;1
+2012;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;397.5;;;;1
+2013;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;382.0;;;;1
+2014;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;366.4;;;;1
+2015;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;356.5;;;;1
+2016;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;366.0;;;;1
+2017;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;366.1;;;;1
+2018;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;362.2;;;;1
+2019;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;338.0;;;;1
+2020;Canada;2016A000011124;30-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258930;01.май;256.3;;;;1
+1970;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;230.6;;;;1
+1971;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;228.5;;;;1
+1972;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;241.4;;;;1
+1973;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;266.4;;;;1
+1974;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;322.2;;;;1
+1975;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;351.2;;;;1
+1976;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;363.8;;;;1
+1977;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;361.7;;;;1
+1978;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;365.4;;;;1
+1979;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;370.6;;;;1
+1980;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;379.7;;;;1
+1981;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;410.1;;;;1
+1982;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;421.9;;;;1
+1983;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;405.9;;;;1
+1984;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;384.2;;;;1
+1985;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;364.0;;;;1
+1986;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;447.4;;;;1
+1987;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;556.5;;;;1
+1988;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;481.1;;;;1
+1989;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;464.6;;;;1
+1990;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;455.8;;;;1
+1991;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;440.6;;;;1
+1992;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;450.7;;;;1
+1993;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;443.6;;;;1
+1994;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;449.0;;;;1
+1995;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;444.7;;;;1
+1996;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;412.5;;;;1
+1997;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;390.5;;;;1
+1998;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;397.6;;;;1
+1999;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;411.3;;;;1
+2000;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;421.5;;;;1
+2001;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;417.3;;;;1
+2002;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;416.4;;;;1
+2003;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;421.1;;;;1
+2004;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;416.6;;;;1
+2005;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;431.0;;;;1
+2006;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;454.8;;;;1
+2007;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;446.6;;;;1
+2008;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;435.7;;;;1
+2009;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;429.2;;;;1
+2010;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;432.4;;;;1
+2011;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;427.7;;;;1
+2012;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;430.4;;;;1
+2013;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;415.4;;;;1
+2014;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;398.1;;;;1
+2015;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;388.2;;;;1
+2016;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;399.4;;;;1
+2017;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;400.1;;;;1
+2018;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;396.3;;;;1
+2019;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;369.4;;;;1
+2020;Canada;2016A000011124;50-year total divorce rate;Rate per 1,000 marriages;263;units;0;v1331258931;01.июн;279.7;;;;1
+1970;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;15.фев;;;;1
+1971;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.май;;;;1
+1972;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.фев;;;;1
+1973;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;13.сен;;;;1
+1974;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;13.сен;;;;1
+1975;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;13.июл;;;;1
+1976;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;13.май;;;;1
+1977;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;13.фев;;;;1
+1978;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.сен;;;;1
+1979;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.июл;;;;1
+1980;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.май;;;;1
+1981;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.июн;;;;1
+1982;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.май;;;;1
+1983;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.май;;;;1
+1984;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.сен;;;;1
+1985;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;13.0;;;;1
+1986;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.сен;;;;1
+1987;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.сен;;;;1
+1988;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.сен;;;;1
+1989;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.сен;;;;1
+1990;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.сен;;;;1
+1991;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.сен;;;;1
+1992;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.сен;;;;1
+1993;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.авг;;;;1
+1994;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;12.сен;;;;1
+1995;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;13.фев;;;;1
+1996;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;13.май;;;;1
+1997;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;13.сен;;;;1
+1998;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;13.июл;;;;1
+1999;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;13.сен;;;;1
+2000;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.янв;;;;1
+2001;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.янв;;;;1
+2002;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.фев;;;;1
+2003;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.мар;;;;1
+2004;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.май;;;;1
+2005;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.май;;;;1
+2006;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.май;;;;1
+2007;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.май;;;;1
+2008;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.май;;;;1
+2009;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.май;;;;1
+2010;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.июн;;;;1
+2011;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.авг;;;;1
+2012;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;14.сен;;;;1
+2013;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;15.янв;;;;1
+2014;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;15.фев;;;;1
+2015;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;15.апр;;;;1
+2016;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;15.июн;;;;1
+2017;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;15.июн;;;;1
+2018;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;15.июн;;;;1
+2019;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;15.май;;;;1
+2020;Canada;2016A000011124;Mean duration of marriage;Years;308;units;0;v1331258932;01.июл;15.мар;;;;1
+1970;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;13.мар;;;;1
+1971;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.апр;;;;1
+1972;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;11.сен;;;;1
+1973;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;11.май;;;;1
+1974;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;11.апр;;;;1
+1975;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;11.янв;;;;1
+1976;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.авг;;;;1
+1977;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.май;;;;1
+1978;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.фев;;;;1
+1979;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.0;;;;1
+1980;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;09.сен;;;;1
+1981;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.0;;;;1
+1982;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.янв;;;;1
+1983;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.фев;;;;1
+1984;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.июн;;;;1
+1985;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.сен;;;;1
+1986;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.июл;;;;1
+1987;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.авг;;;;1
+1988;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.авг;;;;1
+1989;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.авг;;;;1
+1990;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.авг;;;;1
+1991;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.авг;;;;1
+1992;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.июл;;;;1
+1993;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.июл;;;;1
+1994;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.июн;;;;1
+1995;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;10.сен;;;;1
+1996;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;11.фев;;;;1
+1997;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;11.июн;;;;1
+1998;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;11.апр;;;;1
+1999;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;11.июл;;;;1
+2000;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;11.сен;;;;1
+2001;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.0;;;;1
+2002;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.фев;;;;1
+2003;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.фев;;;;1
+2004;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.май;;;;1
+2005;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.апр;;;;1
+2006;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.фев;;;;1
+2007;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.мар;;;;1
+2008;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.мар;;;;1
+2009;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.фев;;;;1
+2010;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.мар;;;;1
+2011;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.май;;;;1
+2012;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.май;;;;1
+2013;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.сен;;;;1
+2014;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;13.0;;;;1
+2015;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;13.фев;;;;1
+2016;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;13.апр;;;;1
+2017;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;13.мар;;;;1
+2018;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;13.фев;;;;1
+2019;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;13.фев;;;;1
+2020;Canada;2016A000011124;Median duration of marriage;Years;308;units;0;v1331258933;01.авг;12.авг;;;;1
+1970;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;08.май;;;;1
+1971;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;08.май;;;;1
+1972;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;08.мар;;;;1
+1973;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;08.май;;;;1
+1974;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;08.июл;;;;1
+1975;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;9.0;;;;1
+1976;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;09.мар;;;;1
+1977;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;9.0;;;;1
+1978;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;9.0;;;;1
+1979;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;08.сен;;;;1
+1980;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;08.июл;;;;1
+1981;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;09.фев;;;;1
+1982;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;08.авг;;;;1
+1983;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;08.май;;;;1
+1984;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;08.май;;;;1
+1985;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;08.мар;;;;1
+1986;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;07.мар;;;;1
+1987;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.май;;;;1
+1988;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;5.0;;;;1
+1989;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;5.0;;;;1
+1990;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.янв;;;;1
+1991;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.мар;;;;1
+1992;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.мар;;;;1
+1993;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.апр;;;;1
+1994;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.апр;;;;1
+1995;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.апр;;;;1
+1996;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.апр;;;;1
+1997;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.фев;;;;1
+1998;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.фев;;;;1
+1999;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.янв;;;;1
+2000;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.янв;;;;1
+2001;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.янв;;;;1
+2002;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.мар;;;;1
+2003;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.апр;;;;1
+2004;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.апр;;;;1
+2005;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.апр;;;;1
+2006;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.янв;;;;1
+2007;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;5.0;;;;1
+2008;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.янв;;;;1
+2009;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.янв;;;;1
+2010;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.янв;;;;1
+2011;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.апр;;;;1
+2012;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.янв;;;;1
+2013;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.янв;;;;1
+2014;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.фев;;;;1
+2015;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.фев;;;;1
+2016;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.апр;;;;1
+2017;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.янв;;;;1
+2018;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;04.авг;;;;1
+2019;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;04.сен;;;;1
+2020;Canada;2016A000011124;Median duration of divorce proceedings;Months;220;units;0;v1331258934;01.сен;05.авг;;;;1
+1986;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;1;;;;0
+1987;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;4;;;;0
+1988;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;5;;;;0
+1989;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;5;;;;0
+1990;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;7;;;;0
+1991;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;7;;;;0
+1992;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;8;;;;0
+1993;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;9;;;;0
+1994;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;10;;;;0
+1995;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;11;;;;0
+1996;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;12;;;;0
+1997;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;13;;;;0
+1998;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;14;;;;0
+1999;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;15;;;;0
+2000;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;16;;;;0
+2001;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;18;;;;0
+2002;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;18;;;;0
+2003;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;19;;;;0
+2004;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;19;;;;0
+2005;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;21;;;;0
+2006;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;21;;;;0
+2007;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;21;;;;0
+2008;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;21;;;;0
+2009;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;21;;;;0
+2010;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;20;;;;0
+2011;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;21;;;;0
+2012;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;22;;;;0
+2013;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;23;;;;0
+2014;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;24;;;;0
+2015;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;24;;;;0
+2016;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;25;;;;0
+2017;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;29;;;;0
+2018;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;29;;;;0
+2019;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;30;;;;0
+2020;Canada;2016A000011124;Proportion of divorce applications that are filed jointly;Percent;239;units;0;v1331258935;01.окт;31;;;;0
