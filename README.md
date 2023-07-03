@@ -1,12 +1,24 @@
-### Practical Time Series Analysis
+## Practical Time Series Analysis
 
 # A Project in Pairs
+#(actually i did it alone :D)
 
-![image](data/logo.jpg)
+
+
+<img src="data/logo.jpg" width="400" height="300" />
 
 ---
+https://github.com/pzlav/epic-ts-in-pair-project-hw12
 
 
+## Description of files in project
+1. data_preparation.ipynb - data preparation and visualization
+2. ARIMA_like_models.ipynb - SARIMA and SARIMAX models
+3. feature_selection.ipynb  - feature selection with Gradient Boosting and Granger Causality
+4. VARMAX.ipynb - VARMAX model
+
+
+## Goals of the project
 We would like to forecast the number of marriages, the number of divorces and the number of births in a city or a country.
 
 * A Gather data for the number of marriages, the number of divorces and the number of
@@ -25,8 +37,8 @@ a VARMAX model.
 VARMAX. Select an appropriate error metric.
 * I Make conclusions.
 
-Additional tasks:
+## Additional tasks that include in this project:
 * Including to model data from World Bank data
-* Feature selection with Gradient Boosting and Granger Causality
+* Feature selection with Gradient Boosting
 
 
